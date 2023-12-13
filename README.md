@@ -1,2 +1,2 @@
 # ezbak
-(very) distributed generic backup system
+(a very) distributed generic backup system
